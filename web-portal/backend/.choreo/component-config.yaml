@@ -23,7 +23,7 @@ spec:
   outbound:
     serviceReferences:
     - name: choreo:///eedora/appointment-management/ndjiaq/8b1c3/v1/ORGANIZATION
-      connectionConfig: 01eef67c-b6e6-17c0-9120-68782ddbb0c9
+      connectionConfig: 01ef143e-db35-135e-ae8e-7fa75ce25bfa
       env:
       - from: ServiceURL
         to: APPOINTMENT_SERVICE_URL
